@@ -1,0 +1,168 @@
+{
+	"original_text": "闹钟",
+	"text": "闹钟"
+}
+{
+	"datetime": {
+		"calendar_type_of_text": 1,
+		"date": "",
+		"day": -1,
+		"hour": -1,
+		"min": -1,
+		"mon": -1,
+		"original_text": "",
+		"period_of_day": 0,
+		"sec": -1,
+		"time": "",
+		"week": -1,
+		"year": -1
+	},
+	"interval": {
+		"end": {
+			"calendar_type_of_text": 1,
+			"date": "2017-04-14",
+			"day": 14,
+			"hour": -1,
+			"min": -1,
+			"mon": 4,
+			"original_text": "",
+			"period_of_day": 5,
+			"sec": -1,
+			"time": "",
+			"week": -1,
+			"year": 2017
+		},
+		"start": {
+			"calendar_type_of_text": 1,
+			"date": "2017-04-10",
+			"day": 10,
+			"hour": -1,
+			"min": -1,
+			"mon": 4,
+			"original_text": "",
+			"period_of_day": 5,
+			"sec": -1,
+			"time": "",
+			"week": -1,
+			"year": 2017
+		}
+	},
+	"original_text": "工作日下午",
+	"repeat": {
+		"interval": {
+			"end": {
+				"calendar_type_of_text": 1,
+				"date": "",
+				"day": -1,
+				"hour": -1,
+				"min": -1,
+				"mon": -1,
+				"original_text": "",
+				"period_of_day": 0,
+				"sec": -1,
+				"time": "",
+				"week": -1,
+				"year": -1
+			},
+			"start": {
+				"calendar_type_of_text": 1,
+				"date": "",
+				"day": -1,
+				"hour": -1,
+				"min": -1,
+				"mon": -1,
+				"original_text": "",
+				"period_of_day": 0,
+				"sec": -1,
+				"time": "",
+				"week": -1,
+				"year": -1
+			}
+		},
+		"repeat_datetime_type": 1
+	},
+	"type": 2
+}
+
+
+{
+	"datetime": {
+		"calendar_type_of_text": 1,
+		"date": "",
+		"day": -1,
+		"hour": 3,
+		"min": 0,
+		"mon": -1,
+		"original_text": "",
+		"period_of_day": 0,
+		"sec": 0,
+		"time": "03:00:00",
+		"week": -1,
+		"year": -1
+	},
+	"interval": {
+		"end": {
+			"calendar_type_of_text": 1,
+			"date": "",
+			"day": -1,
+			"hour": -1,
+			"min": -1,
+			"mon": -1,
+			"original_text": "",
+			"period_of_day": 0,
+			"sec": -1,
+			"time": "",
+			"week": -1,
+			"year": -1
+		},
+		"start": {
+			"calendar_type_of_text": 1,
+			"date": "",
+			"day": -1,
+			"hour": -1,
+			"min": -1,
+			"mon": -1,
+			"original_text": "",
+			"period_of_day": 0,
+			"sec": -1,
+			"time": "",
+			"week": -1,
+			"year": -1
+		}
+	},
+	"original_text": "三点",
+	"repeat": {
+		"interval": {
+			"end": {
+				"calendar_type_of_text": 1,
+				"date": "",
+				"day": -1,
+				"hour": -1,
+				"min": -1,
+				"mon": -1,
+				"original_text": "",
+				"period_of_day": 0,
+				"sec": -1,
+				"time": "",
+				"week": -1,
+				"year": -1
+			},
+			"start": {
+				"calendar_type_of_text": 1,
+				"date": "",
+				"day": -1,
+				"hour": -1,
+				"min": -1,
+				"mon": -1,
+				"original_text": "",
+				"period_of_day": 0,
+				"sec": -1,
+				"time": "",
+				"week": -1,
+				"year": -1
+			}
+		},
+		"repeat_datetime_type": 1
+	},
+	"type": 1
+}

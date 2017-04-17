@@ -1,0 +1,52 @@
+{
+  "res": {
+    "reco_type": 0,
+    "scene": {
+      "action": "new",
+      "scene_data": {
+        "semantic": {
+          "domain": "reminder",
+          "intent": "new",
+          "query": "设置今天下午五点钟的闹钟。",
+          "session_complete": true,
+          "slots": [
+            {
+              "name": "alarm",
+              "prompt": {
+                "show_text": "",
+                "speak_text": ""
+              },
+              "slot_string": { "original_text": "闹钟", "text": "闹钟" },
+              "slot_struct": 1,
+              "type": "usr.reminder.alarm"
+            },
+            {
+              "name": "date",
+              "prompt": {
+                "show_text": "",
+                "speak_text": ""
+              },
+              "slot_string": { "datetime": { "date": "2017-04-11", "day": 11, "hour": -1, "min": -1, "mon": 4, "original_text": "", "period_of_day": 5, "sec": -1, "time": "", "week": -1, "year": 2017 }, "interval": { "end": { "date": "", "day": -1, "hour": -1, "min": -1, "mon": -1, "original_text": "", "period_of_day": 0, "sec": -1, "time": "", "week": -1, "year": -1 }, "start": { "date": "", "day": -1, "hour": -1, "min": -1, "mon": -1, "original_text": "", "period_of_day": 0, "sec": -1, "time": "", "week": -1, "year": -1 } }, "original_text": "今天下午", "repeat": { "interval": { "end": { "date": "", "day": -1, "hour": -1, "min": -1, "mon": -1, "original_text": "", "period_of_day": 0, "sec": -1, "time": "", "week": -1, "year": -1 }, "start": { "date": "", "day": -1, "hour": -1, "min": -1, "mon": -1, "original_text": "", "period_of_day": 0, "sec": -1, "time": "", "week": -1, "year": -1 } }, "repeat_datetime_type": 1 }, "type": 1 },
+              "slot_struct": 0,
+              "type": "sys.date.freq"
+            },
+            {
+              "name": "time",
+              "prompt": {
+                "show_text": "",
+                "speak_text": ""
+              },
+              "slot_string": { "datetime": { "date": "", "day": -1, "hour": 17, "min": 0, "mon": -1, "original_text": "", "period_of_day": 0, "sec": 0, "time": "17:00:00", "week": -1, "year": -1 }, "interval": { "end": { "date": "", "day": -1, "hour": -1, "min": -1, "mon": -1, "original_text": "", "period_of_day": 0, "sec": -1, "time": "", "week": -1, "year": -1 }, "start": { "date": "", "day": -1, "hour": -1, "min": -1, "mon": -1, "original_text": "", "period_of_day": 0, "sec": -1, "time": "", "week": -1, "year": -1 } }, "original_text": "五点钟", "repeat": { "interval": { "end": { "date": "", "day": -1, "hour": -1, "min": -1, "mon": -1, "original_text": "", "period_of_day": 0, "sec": -1, "time": "", "week": -1, "year": -1 }, "start": { "date": "", "day": -1, "hour": -1, "min": -1, "mon": -1, "original_text": "", "period_of_day": 0, "sec": -1, "time": "", "week": -1, "year": -1 } }, "repeat_datetime_type": 1 }, "type": 1 },
+              "slot_struct": 0,
+              "type": "sys.time.freq"
+            }
+          ]
+        }
+      },
+      "scene_name": "reminder",
+      "speak": ""
+    },
+    "text": "设置今天下午五点钟的闹钟。"
+  },
+  "ret": 0
+}
